@@ -1,0 +1,39 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de log
+*.log
+
+# Arquivos Excel temporários
+~$*.xlsx
+
+# Configurações do VS Code
+.vscode/
+
+# Configurações do PyCharm
+.idea/
+
+# Variáveis de ambiente
+.env
+
+# Arquivos de banco de dados
+*.db
+
+# Relatórios temporários
+temp/
+tmp/
+
+# Saídas da automação
+output/
+downloads/
+exportacoes/
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
